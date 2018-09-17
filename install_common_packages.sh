@@ -8,3 +8,4 @@ apt-get install bash-completion
 apt-get install autoconf
 apt-get install libtool
 apt-get install pkg-config
+apt-get install cscope

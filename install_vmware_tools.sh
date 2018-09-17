@@ -8,4 +8,8 @@ rm -f VMwareTools-*.tar.gz
 
 cd vmware-tools-distrib
 
-./vmware-install.pl
+sudo ./vmware-install.pl
+
+cd -
+
+rm -rf vmware-tools-distrib

@@ -10,3 +10,9 @@ sudo apt-get install autoconf
 sudo apt-get install libtool
 sudo apt-get install pkg-config
 sudo apt-get install cscope
+sudo apt-get install g++ g++-multilib g++-6-multilib libstdc++6-6-dbg libstdc++-6-doc
+sudo apt-get install lrzsz
+sudo apt-get install libcap-dev
+sudo apt-get install libacl1-dev
+#sudo apt-get install manpages-posix manpages-posix-dev
+sudo apt-get install cmake

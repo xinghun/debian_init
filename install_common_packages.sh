@@ -16,3 +16,6 @@ sudo apt-get install libcap-dev
 sudo apt-get install libacl1-dev
 #sudo apt-get install manpages-posix manpages-posix-dev
 sudo apt-get install cmake
+sudo apt-get install bear
+sudo apt-get install lua5.1
+sudo apt-get install gdb

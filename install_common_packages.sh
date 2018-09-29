@@ -19,3 +19,12 @@ sudo apt-get install cmake
 sudo apt-get install bear
 sudo apt-get install lua5.1
 sudo apt-get install gdb
+sudo apt-get install lighttpd
+#sudo apt-get install mysql-server
+#sudo apt-get install mysql-client
+
+#https://stackoverflow.com/questions/20270879/whats-the-default-password-of-mariadb-on-fedora
+sudo apt-get install mariadb-server
+#sudo mysql -u root -p mysql -e "update user set plugin='' where User='root';flush privileges;"
+#sudo mysqladmin --user=root password "root"
+
